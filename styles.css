@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #F8F6ED;
+
+  }
+
+  .container {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-left: calc(50% - 500px);
+    align-items: center;
+
+  }
+
+  h2 {
+    height: 35px;
+    background-image: linear-gradient(#36B657, #52AC04);
+    text-align: center;
+    margin-top: 0;
+    font-size: 25px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+
+  }
+  p {
+    width: 300px;
+    text-align: left;
+    color: green;
+    font-weight: bold;
+    margin-top: 2px;
+
+  }
+
+  .kalendorius {
+    color: grey;
+    border-spacing: 8px;
+  }
+
+  th, td {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  .table_1 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_2 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_3 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_4 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_5 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_6 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_7 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_8 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_9 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_10 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_11 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
+  .table_12 {
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 70px;
+  }
