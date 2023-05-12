@@ -2,7 +2,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Yoga
+# Calendar
 
 _website design project_
 
@@ -12,18 +12,19 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://mistakeltu.github.io/05_12_friday_challenge_many_tables/
 
-Idea: 
+Idea: ![MicrosoftTeams-image](https://github.com/mistakeltu/05_12_friday_challenge_many_tables/assets/124028921/1ec7a3df-e0e8-4b20-ba37-5bfb6fb674c3)
+
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   favicon
--   fixed-width content
--   `<header>`, `<footer>`
--   FontAwesome font/icons
+-   README 
+-   flexbox
+-   tables
+-   styles.css
+-   justify-content
 -   HTML entities
 
 ## 🧰 Getting Started
