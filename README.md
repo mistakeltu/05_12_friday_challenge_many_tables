@@ -21,10 +21,10 @@ Idea: ![MicrosoftTeams-image](https://github.com/mistakeltu/05_12_friday_challen
 
 -   Github pages
 -   README 
--   favicon
--   fixed-width content
--   `<header>`, `<footer>`
--   FontAwesome font/icons
+-   flexbox
+-   tables
+-   styles.css
+-   justify-content
 -   HTML entities
 
 ## 🧰 Getting Started
